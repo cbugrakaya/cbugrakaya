@@ -6,10 +6,10 @@
 <!-- <a href="https://discord.gg/XTW52Kt">
   <img align="left" alt="Abhishek's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a> -->
-<a href="https://www.instagram.com/bugraakaya/">
+<a href="https://www.instagram.com/bugraakaya/" target="_blank">
   <img align="left" alt="Celal Buğra Kaya | Instagram" width="22px" src="https://raw.githubusercontent.com/wle8300/instagram-logo/master/logo.svg" />
 </a>
-<a href="https://www.linkedin.com/in/cbugrakaya/">
+<a href="https://www.linkedin.com/in/cbugrakaya/"  target="_blank">
   <img align="left" alt="Bugra's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
