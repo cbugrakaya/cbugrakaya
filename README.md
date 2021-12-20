@@ -6,6 +6,10 @@
 <!-- <a href="https://discord.gg/XTW52Kt">
   <img align="left" alt="Abhishek's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a> -->
+<p align="left">
+<a href="https://medium.com/@datadeveloperr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="deneme"  width="22" /></a>
+
+
 <a href="https://www.instagram.com/bugraakaya/" target="_blank">
   <img align="left" alt="Celal Buğra Kaya | Instagram" width="22px" src="https://raw.githubusercontent.com/wle8300/instagram-logo/master/logo.svg" />
 </a>
@@ -18,7 +22,7 @@
 </a> -->
 
 ![](https://visitor-badge.glitch.me/badge?page_id=cbugrakaya.cbugrakaya)
-
+</p>
 <br />
 
 hi, i'm [Celal Buğra Kaya](#).
