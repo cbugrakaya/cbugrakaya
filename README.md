@@ -7,7 +7,7 @@
   <img align="left" alt="Abhishek's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a> -->
 <p align="left">
-<a href="https://medium.com/@datadeveloperr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="deneme"  width="22" /></a>
+<a href="https://medium.com/@cbugrakaya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="deneme"  width="22" /></a>
 
 
 <a href="https://www.instagram.com/bugraakaya/" target="_blank">
