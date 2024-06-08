@@ -7,14 +7,9 @@
   <img align="left" alt="Abhishek's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a> -->
 <p align="left">
-<a href="https://medium.com/@cbugrakaya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="deneme"  width="22" /></a>
 
-
-<a href="https://www.instagram.com/bugraakaya/" target="_blank">
-  <img align="left" alt="Celal Buğra Kaya | Instagram" width="22px" src="https://raw.githubusercontent.com/wle8300/instagram-logo/master/logo.svg" />
-</a>
 <a href="https://www.linkedin.com/in/cbugrakaya/"  target="_blank">
-  <img align="left" alt="Bugra's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+    <img alt="LinkedIn" title="LinkedIn" height="48" width="48" src="https://cdn.simpleicons.org/linkedin"></a>
 </a>
 
 <!-- <a href="https://open.spotify.com/user/e90fe4zsndbm6xoe2t7t8kogf?si=WaLKpwvWTle0btle2qPb6g">
